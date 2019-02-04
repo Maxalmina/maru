@@ -1,2 +1,2 @@
-# maru
-Tasks of Artificial Intelligence and Machine Learning course
+# Income Classification
+Task of Machine Learning course
