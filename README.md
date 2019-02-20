@@ -5,7 +5,8 @@ Tasks of Artificial Intelligence and Machine Learning course
 
 ### Prerequisite
 
-1. Install `python 3.7.2` and `anaconda 2018.12`.
+1. Install `Python 3.7.2` and `Anaconda 2018.12`.
+2. Install `R 3.4.4`.
 
 ## Authors
 
